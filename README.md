@@ -25,3 +25,11 @@ Document Digitization: my script can be used to extract text from scanned docume
 ## Important Note:
 Make sure to download the necessary pytesseract OCR executable and add it to your system variables for seamless text extraction from images using my Python script.
 https://tesseract-ocr.github.io/tessdoc/Downloads.html
+
+## How to Use:
+
+1. Install the required libraries by running pip install pytesseract pillow matplotlib.
+2. Grab your favorite image containing text.
+3. Replace the image='sample-4.png' line in the code with the path to your image.
+4. Run the script! 🚀
+5. Voilà! The extracted text will be displayed and saved to a corresponding .txt file.
