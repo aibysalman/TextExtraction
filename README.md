@@ -21,3 +21,7 @@ Content Creation and Social Media: Writers, bloggers, and social media managers 
 Financial Analysis and Expense Tracking: Professionals and businesses can leverage my script to extract essential details from bills, receipts, and invoices. By automatically extracting items, quantities, prices, and tax information, it simplifies expense tracking, financial analysis, and budget management processes.
 
 Document Digitization: my script can be used to extract text from scanned documents, handwritten notes, or printed materials, enabling efficient digitization and indexing of valuable textual content. This proves beneficial for libraries, archives, and businesses aiming to create searchable databases or preserve historical documents.
+
+## Important Note:
+Make sure to download the necessary pytesseract OCR executable and add it to your system variables for seamless text extraction from images using my Python script.
+https://tesseract-ocr.github.io/tessdoc/Downloads.html
